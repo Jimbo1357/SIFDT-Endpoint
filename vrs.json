@@ -1,5 +1,5 @@
 {
-    "SIFDTVersion": "TEST RELEASE 1.0",
+    "SIFDTVersion": "0.0.1",
     "DownloadURL":"https://github.com/Jimbo1357/SIFDT-Bootstrapper-Diagnostic-Repo/raw/refs/heads/main/SIFDT.zip",
     "Status":"True",
     "SIFDTChangelog":"[+] Hired the best coder ever to make bootstrapper"
